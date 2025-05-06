@@ -181,49 +181,6 @@
       "mealType": [
         "Dinner"
       ]
-    },
-    {
-      "name": "tuan",
-      "ingredients": [
-        "a",
-        "b"
-      ],
-      "instructions": [
-        "b"
-      ],
-      "prepTimeMinutes": 1,
-      "cookTimeMinutes": 2,
-      "cuisine": "",
-      "difficulty": "",
-      "tags": [
-        "a",
-        "b"
-      ],
-      "mealTypes": [
-        "b",
-        "a"
-      ],
-      "id": 6
-    },
-    {
-      "name": "tuan",
-      "ingredients": [
-        "a"
-      ],
-      "instructions": [
-        "a"
-      ],
-      "prepTimeMinutes": 0,
-      "cookTimeMinutes": 0,
-      "cuisine": "a",
-      "difficulty": "a",
-      "tags": [
-        "a"
-      ],
-      "mealTypes": [
-        "a"
-      ],
-      "id": 7
     }
   ]
 }
